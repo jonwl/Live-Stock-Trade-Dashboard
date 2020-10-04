@@ -1,4 +1,4 @@
-# Live Stock Trading Dashboard
+# Live Stock Trading To Dashboard
 
 Web server providing a dashboard of live trade information from company database, including recent trades and total vega and theta traded (in plots).  Updates in real time.
 
